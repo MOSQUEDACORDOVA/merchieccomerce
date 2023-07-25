@@ -40,10 +40,8 @@
                                                             data-widget_type="wd_image_or_svg.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="wd-image text-center">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2MCAxNjAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                        width="160" height="160"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/alt__promocional_publicitario_bolso_matero_K4_Contexto-q2gl4a9zb1n70rmbbsxibd56jh88eboo8ej6n4wdvk.jpg"
+                                                                    <img data-lazyloaded="1" width="160" height="160"
+                                                                        src="https://merchi.cl/wp-content/uploads/elementor/thumbs/alt__promocional_publicitario_bolso_matero_K4_Contexto-q2gl4a9zb1n70rmbbsxibd56jh88eboo8ej6n4wdvk.jpg"
                                                                         title="alt__promocional_publicitario_bolso_matero_K4_Contexto"
                                                                         alt="alt__promocional_publicitario_bolso_matero_K4_Contexto"
                                                                         loading="lazy" />
@@ -154,10 +152,8 @@
                                                             data-widget_type="wd_image_or_svg.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="wd-image text-center">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2MCAxNjAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                        width="160" height="160"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/U-Hang-necessaire-bolso-colgante-estuche-multiuso-8-q2gfop0z73w95tq4frb7z7z8m39npo7ecbkwncwim8.jpg"
+                                                                    <img data-lazyloaded="1" width="160" height="160"
+                                                                        src="https://merchi.cl/wp-content/uploads/elementor/thumbs/U-Hang-necessaire-bolso-colgante-estuche-multiuso-8-q2gfop0z73w95tq4frb7z7z8m39npo7ecbkwncwim8.jpg"
                                                                         title="U-Hang-necessaire-bolso-colgante-estuche-multiuso-8"
                                                                         alt="U-Hang-necessaire-bolso-colgante-estuche-multiuso-8"
                                                                         loading="lazy" />
@@ -225,10 +221,8 @@
                                                             data-widget_type="wd_image_or_svg.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="wd-image text-center">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2MCAxNjAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                        width="160" height="160"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/alt__promocional_publicitario_mochila_nomawalk__K7_contexto_3-q2mq2d9mbo6mxvvc2hzqeoh81ekd7xudhgjlhxaukg.jpg"
+                                                                    <img data-lazyloaded="1" width="160" height="160"
+                                                                        src="https://merchi.cl/wp-content/uploads/elementor/thumbs/alt__promocional_publicitario_mochila_nomawalk__K7_contexto_3-q2mq2d9mbo6mxvvc2hzqeoh81ekd7xudhgjlhxaukg.jpg"
                                                                         title="alt__promocional_publicitario_mochila_nomawalk__K7_contexto_3"
                                                                         alt="alt__promocional_publicitario_mochila_nomawalk__K7_contexto_3"
                                                                         loading="lazy" />
@@ -315,10 +309,9 @@
                                                                     <a href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas-ejecutivas/mochila-osten-65/"
                                                                         title="Mochila Osten - 65"
                                                                         class="widget-product-img">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="300" height="300"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-300x300.jpg"
+                                                                        <img data-lazyloaded="1" width="300"
+                                                                            height="300"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-300x300.jpg"
                                                                             class="attachment-medium size-medium wp-image-23612"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-300x300.jpg 300w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-150x150.jpg 150w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-768x768.jpg 768w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-500x500.jpg 500w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-250x250.jpg 250w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394-600x600.jpg 600w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-Osten-portada-sin-cucardajpg-1663962394.jpg 800w"
@@ -345,10 +338,9 @@
                                                                     <a href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas-ejecutivas/mochila-haus-66/"
                                                                         title="Mochila Haus - 66"
                                                                         class="widget-product-img">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="300" height="300"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-300x300.jpg"
+                                                                        <img data-lazyloaded="1" width="300"
+                                                                            height="300"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-300x300.jpg"
                                                                             class="attachment-medium size-medium wp-image-23622"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-300x300.jpg 300w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-1024x1024.jpg 1024w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-150x150.jpg 150w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-768x768.jpg 768w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-500x500.jpg 500w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-250x250.jpg 250w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-600x600.jpg 600w, https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255.jpg 1200w"
@@ -375,10 +367,9 @@
                                                                     <a href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas-ejecutivas/mochila-cima-134/"
                                                                         title="Mochila Cima - 134"
                                                                         class="widget-product-img">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="300" height="300"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-300x300.jpg"
+                                                                        <img data-lazyloaded="1" width="300"
+                                                                            height="300"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-300x300.jpg"
                                                                             class="attachment-medium size-medium wp-image-27812"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-300x300.jpg 300w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-1024x1024.jpg 1024w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-150x150.jpg 150w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-768x768.jpg 768w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-500x500.jpg 500w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-250x250.jpg 250w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-600x600.jpg 600w, https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935.jpg 1200w"
@@ -405,10 +396,9 @@
                                                                     <a href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas/mochila-duomo-137/"
                                                                         title="Mochila Duomo - 137"
                                                                         class="widget-product-img">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="300" height="300"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-300x300.jpg"
+                                                                        <img data-lazyloaded="1" width="300"
+                                                                            height="300"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-300x300.jpg"
                                                                             class="attachment-medium size-medium wp-image-27847"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-300x300.jpg 300w, https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-150x150.jpg 150w, https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-768x768.jpg 768w, https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-500x500.jpg 500w, https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-250x250.jpg 250w, https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873-600x600.jpg 600w, https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873.jpg 800w"
@@ -435,10 +425,9 @@
                                                                     <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/bolsas-y-morrales-ecologicos/mochila-root-176/"
                                                                         title="Mochila Root - 176"
                                                                         class="widget-product-img">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="300" height="300"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-300x300.jpg"
+                                                                        <img data-lazyloaded="1" width="300"
+                                                                            height="300"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-300x300.jpg"
                                                                             class="attachment-medium size-medium wp-image-28557"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-300x300.jpg 300w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-1024x1024.jpg 1024w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-150x150.jpg 150w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-768x768.jpg 768w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-500x500.jpg 500w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-250x250.jpg 250w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188-600x600.jpg 600w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-ROOT-ReUseMe-Azuljpg-1664391188.jpg 1100w"
@@ -548,9 +537,7 @@
                                     <img width="260" height="86"
                                         src="https://merchi.cl/wp-content/uploads/2023/02/Logo-Merchi-Regalos-Corporativos-8.png"
                                         class="attachment-full size-full" alt="" decoding="async" loading="lazy"
-                                        style="max-width:151px;"
-                                        srcset="https://merchi.cl/wp-content/uploads/2023/02/Logo-Merchi-Regalos-Corporativos-8.png 260w, https://merchi.cl/wp-content/uploads/2023/02/Logo-Merchi-Regalos-Corporativos-8-250x83.png 250w, https://merchi.cl/wp-content/uploads/2023/02/Logo-Merchi-Regalos-Corporativos-8-150x50.png 150w"
-                                        sizes="(max-width: 260px) 100vw, 260px" /> </a>
+                                        style="max-width:151px;" sizes="(max-width: 260px) 100vw, 260px" /> </a>
                             </div>
                         </div>
                         <div class="whb-column whb-col-center whb-visible-lg">
@@ -862,7 +849,8 @@
                                                                 max-width: calc(100% / var(--e-image-carousel-slides-to-show, 3))
                                                             }
                                                         </style>
-                                                        <div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+                                                        <div class="elementor-image-carousel-wrapper elementor-image-carousel-wrapper-1 swiper"
+                                                            dir="ltr">
                                                             <div class="elementor-image-carousel swiper-wrapper"
                                                                 aria-live="off">
                                                                 <div class="swiper-slide" role="group"
@@ -884,44 +872,36 @@
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="3 de 6">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iOTYwIiBoZWlnaHQ9IjQ4MCIgdmlld0JveD0iMCAwIDk2MCA0ODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="960" height="480" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_BP301-302_1920x960px_ok.webp"
+                                                                            data-lazyloaded="1" width="960" height="480"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_BP301-302_1920x960px_ok.webp"
                                                                             alt="Banner_BP301-302_1920x960px_ok" />
                                                                     </figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="4 de 6">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iOTYwIiBoZWlnaHQ9IjQ4MCIgdmlld0JveD0iMCAwIDk2MCA0ODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="960" height="480" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner-K109-1920x960_CH.webp"
+                                                                            data-lazyloaded="1" width="960" height="480"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner-K109-1920x960_CH.webp"
                                                                             alt="Banner-K109-1920x960_CH" />
                                                                     </figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="5 de 6">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iOTYwIiBoZWlnaHQ9IjQ4MCIgdmlld0JveD0iMCAwIDk2MCA0ODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="960" height="480" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_T621-T629-T630_1920x960_CH_2.webp"
+                                                                            data-lazyloaded="1" width="960" height="480"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_T621-T629-T630_1920x960_CH_2.webp"
                                                                             alt="Banner_T621-T629-T630_1920x960_CH_2" />
                                                                     </figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="6 de 6">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iOTYwIiBoZWlnaHQ9IjQ4MCIgdmlld0JveD0iMCAwIDk2MCA0ODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="960" height="480" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_Barista_1920x960-_1_.webp"
+                                                                            data-lazyloaded="1" width="960" height="480"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_Barista_1920x960-_1_.webp"
                                                                             alt="Banner_Barista_1920x960-_1_" />
                                                                     </figure>
                                                                 </div>
@@ -948,12 +928,13 @@
                                                                     data-widget_type="wd_banner.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="promo-banner-wrapper">
-                                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default cursor-pointer"
-                                                                                onclick="window.location.href='https://merchi.cl/?s=wagner&#038;post_type=product'">
+                                                                            <div
+                                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default cursor-pointer">
                                                                                 <div class="main-wrapp-img">
                                                                                     <div
                                                                                         class="banner-image wd-without-height">
                                                                                         <img width="500" height="255"
+                                                                                            style="border-radius:10px"
                                                                                             src="https://merchi.cl/wp-content/uploads/2023/02/Banner_productos_wagner_mobile-500x255.jpg"
                                                                                             class="attachment-woodmart_shop_catalog_x2 size-woodmart_shop_catalog_x2 wp-image-22546"
                                                                                             alt="" decoding="async"
@@ -977,13 +958,14 @@
                                                                     data-widget_type="wd_banner.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="promo-banner-wrapper">
-                                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default cursor-pointer"
-                                                                                onclick="window.location.href='https://merchi.cl/?s=bolsa&#038;post_type=product'">
+                                                                            <div
+                                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default cursor-pointer">
                                                                                 <div class="main-wrapp-img">
                                                                                     <div
                                                                                         class="banner-image wd-without-height">
                                                                                         <img width="506" height="254"
                                                                                             src="https://merchi.cl/wp-content/uploads/2023/02/Recurso-2-8-e1676460891447.webp"
+                                                                                            style="border-radius:10px"
                                                                                             class="attachment-full size-full wp-image-22567"
                                                                                             alt="" decoding="async"
                                                                                             loading="lazy"
@@ -1243,7 +1225,7 @@
                                     data-id="66bc4c47" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-default">
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-202a5c66"
-                                            data-id="202a5c66" data-element_type="column">
+                                            data-id="202a5c66" data-element_type="column" style="width: 100%">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-05cd74b elementor-widget elementor-widget-wd_title"
                                                     data-id="05cd74b" data-element_type="widget"
@@ -1274,97 +1256,84 @@
                                                     data-settings="{&quot;slides_to_show&quot;:&quot;7&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}"
                                                     data-widget_type="image-carousel.default">
                                                     <div class="elementor-widget-container">
-                                                        <div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+                                                        <div class="elementor-image-carousel-wrapper elementor-image-carousel-wrapper-2 swiper"
+                                                            dir="ltr">
                                                             <div class="elementor-image-carousel swiper-wrapper"
                                                                 aria-live="off">
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="1 de 9">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Asset-6-q2f5avokozjyodjw0lv1fokqghvnl2neets9psc25k.png"
                                                                             width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Asset-6-q2f5avokozjyodjw0lv1fokqghvnl2neets9psc25k.png"
-                                                                            alt="Asset-6" /></figure>
+                                                                            class="swiper-slide-image" alt="Asset-6" />
+                                                                    </figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="2 de 9">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/ruta-3-8-q5idtbh5h72cb1kemm4gfsk95bkgtzje8nei4d904o.png"
                                                                             width="200" height="100" decoding="async"
                                                                             class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/ruta-3-8-q5idtbh5h72cb1kemm4gfsk95bkgtzje8nei4d904o.png"
                                                                             alt="Ruta del Maipo Logo 1" /></figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="3 de 9">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/UNAB-8-q5ie35ub1qjfw19o5dat1t513l1ufvm79dck1onkyw.png"
                                                                             width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/UNAB-8-q5ie35ub1qjfw19o5dat1t513l1ufvm79dck1onkyw.png"
-                                                                            alt="UNAB-8" /></figure>
+                                                                            class="swiper-slide-image" alt="UNAB-8" />
+                                                                    </figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="4 de 9">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Rebook-q2f5azfxgbp3ytefenhjpnmku1d4fv2brce7mw6hgo.png"
                                                                             width="200" height="100" decoding="async"
                                                                             class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Rebook-q2f5azfxgbp3ytefenhjpnmku1d4fv2brce7mw6hgo.png"
                                                                             alt="Logo-Rebook" /></figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="5 de 9">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Asset-7-q2f5atswbbhe15mmbl1sap1t9q4x5ofxqkhar8eui0.png"
+                                                                            data-lazyloaded="1" width="200" height="100"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Asset-7-q2f5atswbbhe15mmbl1sap1t9q4x5ofxqkhar8eui0.png"
                                                                             alt="Asset-7" /></figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="6 de 9">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Fortinet-8-q5idzffdwfffrsowy975n9245hgcv5sl2w24f46voo.png"
+                                                                            data-lazyloaded="1" width="200" height="100"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Fortinet-8-q5idzffdwfffrsowy975n9245hgcv5sl2w24f46voo.png"
                                                                             alt="Fortinet" /></figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="7 de 9">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Winkler-Nutrition-logo-q29qieilyo034rkdyfbkm98rp5hgk1lpmafcspsyco.png"
+                                                                            data-lazyloaded="1" width="200" height="100"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Winkler-Nutrition-logo-q29qieilyo034rkdyfbkm98rp5hgk1lpmafcspsyco.png"
                                                                             alt="Winkler-Nutrition-logo" /></figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="8 de 9">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Salazar-Israel-q2f5b0drn5qeafd295w6a5e1ff8hnk623h1p4653ag.png"
+                                                                            data-lazyloaded="1" width="200" height="100"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Salazar-Israel-q2f5b0drn5qeafd295w6a5e1ff8hnk623h1p4653ag.png"
                                                                             alt="Logo-Salazar-Israel" /></figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group"
                                                                     aria-roledescription="slide" aria-label="9 de 9">
                                                                     <figure class="swiper-slide-inner"><img
-                                                                            data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="200" height="100" decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Valmet-q2f5axk92nmjblh5pmoako3nn9me0guv3338oc99t4.png"
+                                                                            data-lazyloaded="1" width="200" height="100"
+                                                                            decoding="async" class="swiper-slide-image"
+                                                                            src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Valmet-q2f5axk92nmjblh5pmoako3nn9me0guv3338oc99t4.png"
                                                                             alt="Logo-Valmet" /></figure>
                                                                 </div>
                                                             </div>
@@ -1426,11 +1395,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/bolsas-y-packaging/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Bolsas-8-q2lfask9rv1df4d7o1s2xbqtlfwbymm76txqpg6si8.webp"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Bolsas-8-q2lfask9rv1df4d7o1s2xbqtlfwbymm76txqpg6si8.webp"
                                                                                     title="Bolsas-8" alt="Bolsas-8"
                                                                                     loading="lazy" /> </a>
                                                                         </div>
@@ -1450,11 +1417,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/bolsos-y-mochilas/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Mochilas-8-q2d7htcijxe154lo7yx5nk47t3ctp4wt3a6y2dj93k.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Mochilas-8-q2d7htcijxe154lo7yx5nk47t3ctp4wt3a6y2dj93k.png"
                                                                                     title="Bolsos y Mochilas"
                                                                                     alt="Bolsos y Mochilas"
                                                                                     loading="lazy" /> </a>
@@ -1475,11 +1440,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Eco-8-q2d7hv86xlglscixwzqesjn4zv3k4j49rjhx0xggr4.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Eco-8-q2d7hv86xlglscixwzqesjn4zv3k4j49rjhx0xggr4.png"
                                                                                     title="Eco" alt="Eco"
                                                                                     loading="lazy" /> </a>
                                                                         </div>
@@ -1499,11 +1462,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/escritura/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Escritura-metalica-8-q2d7hy1pi3kgr6eugiyai0xis0pnrmfgrxgdgrca8g.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Escritura-metalica-8-q2d7hy1pi3kgr6eugiyai0xis0pnrmfgrxgdgrca8g.png"
                                                                                     title="Escritura metálica"
                                                                                     alt="Escritura metálica"
                                                                                     loading="lazy" /> </a>
@@ -1523,11 +1484,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/oficina/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Oficina-8-q2n6tulcmzugawafv5488p1f19admb2lapjsbn5az4.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Oficina-8-q2n6tulcmzugawafv5488p1f19admb2lapjsbn5az4.png"
                                                                                     title="Oficina-8" alt="Oficina-8"
                                                                                     loading="lazy" /> </a>
                                                                         </div>
@@ -1546,11 +1505,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/para-beber/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/mate-8-q2n6tycpebzllc4z96qqio39esruh3hin85q8qzqa8.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/mate-8-q2n6tycpebzllc4z96qqio39esruh3hin85q8qzqa8.png"
                                                                                     title="mate-8" alt="mate-8"
                                                                                     loading="lazy" /> </a>
                                                                         </div>
@@ -1569,11 +1526,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/para-comer/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Para-comer-8-q2n6tspo9brvnod664az3pihuhjn6wv4mg8td383bk.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Para-comer-8-q2n6tspo9brvnod664az3pihuhjn6wv4mg8td383bk.png"
                                                                                     title="Para comer-8"
                                                                                     alt="Para comer-8" loading="lazy" />
                                                                             </a>
@@ -1593,11 +1548,9 @@
                                                                         <div class="category-image-wrapp">
                                                                             <a href="https://merchi.cl/tecnologia-y-accesorios/"
                                                                                 class="category-image">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="200" height="200"
-                                                                                    decoding="async"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Tecnologia-8-q2d7hjy4nl15x0zbquuvymhlv8n5k5vhpzo39lx6ts.png"
+                                                                                <img data-lazyloaded="1" width="200"
+                                                                                    height="200" decoding="async"
+                                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Tecnologia-8-q2d7hjy4nl15x0zbquuvymhlv8n5k5vhpzo39lx6ts.png"
                                                                                     title="Tecnología" alt="Tecnología"
                                                                                     loading="lazy" /> </a>
                                                                         </div>
@@ -1680,7 +1633,6 @@
                                                     data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <style>
-                                                            /*! elementor - v3.14.0 - 26-06-2023 */
                                                             .elementor-widget-image-box .elementor-image-box-content {
                                                                 width: 100%
                                                             }
@@ -1744,13 +1696,11 @@
                                                             }
                                                         </style>
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img
-                                                                    data-lazyloaded="1"
-                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAiIGhlaWdodD0iNjgiIHZpZXdCb3g9IjAgMCA3MCA2OCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                    width="70" height="68" decoding="async"
-                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Variedad-8-q2n6toy9wz6yy7rs08h83uvrupo46pvxt5to136t60.png"
-                                                                    title="Variedad-8" alt="Variedad-8"
-                                                                    loading="lazy" /></figure>
+                                                            <figure class="elementor-image-box-img">
+                                                                <img width="70" height="68"
+                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Variedad-8-q2n6toy9wz6yy7rs08h83uvrupo46pvxt5to136t60.png"
+                                                                    title="Variedad-8" alt="Variedad-8" />
+                                                            </figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Variedad</h3>
                                                                 <p class="elementor-image-box-description">Más de
@@ -1767,10 +1717,9 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
                                                             <figure class="elementor-image-box-img"><img
-                                                                    data-lazyloaded="1"
-                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIHZpZXdCb3g9IjAgMCA3MCA3MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                    width="70" height="70" decoding="async"
-                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/presupuesto-8-q2n6trrshhatx1nojrp3tc65mva7tt74tjs4gx2mnw.png"
+                                                                    data-lazyloaded="1" width="70" height="70"
+                                                                    decoding="async"
+                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/presupuesto-8-q2n6trrshhatx1nojrp3tc65mva7tt74tjs4gx2mnw.png"
                                                                     title="presupuesto-8" alt="presupuesto-8"
                                                                     loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
@@ -1790,10 +1739,9 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
                                                             <figure class="elementor-image-box-img"><img
-                                                                    data-lazyloaded="1"
-                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIHZpZXdCb3g9IjAgMCA3MCA3MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                    width="70" height="70" decoding="async"
-                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Diseno-8-q2n6tpw43t899tqeuqvuocn8g3jheezo5ah5id5f0c.png"
+                                                                    data-lazyloaded="1" width="70" height="70"
+                                                                    decoding="async"
+                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Diseno-8-q2n6tpw43t899tqeuqvuocn8g3jheezo5ah5id5f0c.png"
                                                                     title="Diseño-8" alt="Diseño-8" loading="lazy" />
                                                             </figure>
                                                             <div class="elementor-image-box-content">
@@ -1812,10 +1760,9 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
                                                             <figure class="elementor-image-box-img"><img
-                                                                    data-lazyloaded="1"
-                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAiIGhlaWdodD0iNjgiIHZpZXdCb3g9IjAgMCA3MCA2OCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                    width="70" height="68" decoding="async"
-                                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/envio-8-q2n6tqtyan9jlfp1p9ah8uep1heum43ehf4mzn40tk.png"
+                                                                    data-lazyloaded="1" width="70" height="68"
+                                                                    decoding="async"
+                                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/envio-8-q2n6tqtyan9jlfp1p9ah8uep1heum43ehf4mzn40tk.png"
                                                                     title="envío-8" alt="envío-8" loading="lazy" />
                                                             </figure>
                                                             <div class="elementor-image-box-content">
@@ -1938,9 +1885,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAxIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDUwMSA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                     width="501" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1.jpg"
                                                                                     class="attachment-large size-large wp-image-82401"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -1950,10 +1896,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/sin-categoria/mug-termico-mallow-t650/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAxIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDUwMSA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="501" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1_logo.jpg"
+                                                                                    <img data-lazyloaded="1" width="501"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1_logo.jpg"
                                                                                         class="attachment-large size-large wp-image-82402"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2002,7 +1947,7 @@
                                                                             <div
                                                                                 class="wd-swatches-grid wd-swatches-product wd-swatches-attr wd-bg-style-4 wd-text-style-4 wd-dis-style-3 wd-size-default wd-shape-rounded">
                                                                                 <div class="wd-swatch wd-tooltip wd-bg"
-                                                                                    data-image-src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_negro_1.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_negro_1.jpg"
                                                                                     data-image-srcset="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_negro_1.jpg 501w, https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_negro_1-215x300.jpg 215w, https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_negro_1-250x349.jpg 250w, https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_negro_1-150x210.jpg 150w"
                                                                                     data-image-sizes="(max-width: 501px) 100vw, 501px">
                                                                                     <span class="wd-swatch-bg"
@@ -2012,7 +1957,7 @@
                                                                                         Negro </span>
                                                                                 </div>
                                                                                 <div class="wd-swatch wd-tooltip wd-bg"
-                                                                                    data-image-src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1.jpg"
                                                                                     data-image-srcset="https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1.jpg 501w, https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1-215x300.jpg 215w, https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1-250x349.jpg 250w, https://merchi.cl/wp-content/uploads/2023/06/alt_-promocional_publicitario_mug_acero_inoxidable_T650_blanco_1-150x210.jpg 150w"
                                                                                     data-image-sizes="(max-width: 501px) 100vw, 501px">
                                                                                     <span class="wd-swatch-bg"
@@ -2097,9 +2042,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzUzIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDc1MyA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                     width="753" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/04/alt_promocional_publicitario_Tabla_cuchillo_T635_1.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/04/alt_promocional_publicitario_Tabla_cuchillo_T635_1.jpg"
                                                                                     class="attachment-large size-large wp-image-57112"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -2109,10 +2053,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-para-comer/set-de-corte-bambcut-t635/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzUzIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDc1MyA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="753" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/04/alt_promocional_publicitario_Tabla_cuchillo_T635_1_logo.jpg"
+                                                                                    <img data-lazyloaded="1" width="753"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/04/alt_promocional_publicitario_Tabla_cuchillo_T635_1_logo.jpg"
                                                                                         class="attachment-large size-large wp-image-57113"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2166,9 +2109,8 @@
                                                                                     data-image-sizes="(max-width: 600px) 100vw, 600px">
                                                                                     <span class="wd-swatch-bg" style="">
                                                                                         <img data-lazyloaded="1"
-                                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
                                                                                             width="20" height="20"
-                                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/madera.jpg"
+                                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/madera.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" decoding="async"
                                                                                             loading="lazy" />
@@ -2222,9 +2164,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNDY2IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDQ2NiA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                     width="466" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_mochila_nomawalk_K8_negro_1.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_mochila_nomawalk_K8_negro_1.jpg"
                                                                                     class="attachment-large size-large wp-image-82505"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -2234,10 +2175,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/sin-categoria/mochila-translate-k8-2/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNDY2IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDQ2NiA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="466" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_mochila_nomawalk_K8_negro_1_logo.jpg"
+                                                                                    <img data-lazyloaded="1" width="466"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_mochila_nomawalk_K8_negro_1_logo.jpg"
                                                                                         class="attachment-large size-large wp-image-82506"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2340,9 +2280,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTU0IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDU1NCA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                     width="554" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_chop_acero_inoxidable_T646_perfil_blanco.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_chop_acero_inoxidable_T646_perfil_blanco.jpg"
                                                                                     class="attachment-large size-large wp-image-82358"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -2352,10 +2291,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/sin-categoria/jarro-cervecero-termico-oktober-t646-2/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTU0IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDU1NCA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="554" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_chop_acero_inoxidable_T646_perfil_blanco_logo.jpg"
+                                                                                    <img data-lazyloaded="1" width="554"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/06/alt_promocional_publicitario_chop_acero_inoxidable_T646_perfil_blanco_logo.jpg"
                                                                                         class="attachment-large size-large wp-image-82359"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2502,14 +2440,13 @@
                                                     data-widget_type="wd_banner.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="promo-banner-wrapper">
-                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                onclick="window.location.href='https://merchi.cl/destacado/yes/'">
+                                                            <div
+                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                 <div class="main-wrapp-img">
                                                                     <div class="banner-image">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzUxIiBoZWlnaHQ9IjUyNyIgdmlld0JveD0iMCAwIDM1MSA1MjciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="351" height="527"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Top-vendidos-8.png"
+                                                                        <img data-lazyloaded="1" width="351"
+                                                                            height="527"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Top-vendidos-8.png"
                                                                             class="attachment-full size-full wp-image-22599"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/Top-vendidos-8.png 351w, https://merchi.cl/wp-content/uploads/2023/02/Top-vendidos-8-200x300.png 200w, https://merchi.cl/wp-content/uploads/2023/02/Top-vendidos-8-250x375.png 250w, https://merchi.cl/wp-content/uploads/2023/02/Top-vendidos-8-150x225.png 150w"
@@ -2556,14 +2493,13 @@
                                                     data-widget_type="wd_banner.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="promo-banner-wrapper">
-                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                onclick="window.location.href='https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/'">
+                                                            <div
+                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                 <div class="main-wrapp-img">
                                                                     <div class="banner-image">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzUxIiBoZWlnaHQ9IjUwNiIgdmlld0JveD0iMCAwIDM1MSA1MDYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="351" height="506"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/ecologicos-8.webp"
+                                                                        <img data-lazyloaded="1" width="351"
+                                                                            height="506"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/ecologicos-8.webp"
                                                                             class="attachment-full size-full wp-image-22587"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/ecologicos-8.webp 351w, https://merchi.cl/wp-content/uploads/2023/02/ecologicos-8-208x300.webp 208w, https://merchi.cl/wp-content/uploads/2023/02/ecologicos-8-250x360.webp 250w, https://merchi.cl/wp-content/uploads/2023/02/ecologicos-8-150x216.webp 150w"
@@ -2647,12 +2583,10 @@
                                                                     data-loop="1" data-id="63341">
                                                                     <div class="product-wrapper">
                                                                         <div class="product-element-top wd-quick-shop">
-                                                                            <a href="https://merchi.cl/oficina/libretas-personalizadas/libretas-ecologicas/set-de-escritorio-cartel-t523/"
-                                                                                class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTQ3IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDU0NyA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="547" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/alt_promocional_publicitario_set_autoadhesivos_T523_perfil.jpg"
+                                                                            <a class="product-image-link">
+                                                                                <img data-lazyloaded="1" width="547"
+                                                                                    height="700"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/alt_promocional_publicitario_set_autoadhesivos_T523_perfil.jpg"
                                                                                     class="attachment-large size-large wp-image-19814"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -2660,12 +2594,10 @@
                                                                                     data-sizes="(max-width: 547px) 100vw, 547px" />
                                                                             </a>
                                                                             <div class="hover-img">
-                                                                                <a
-                                                                                    href="https://merchi.cl/oficina/libretas-personalizadas/libretas-ecologicas/set-de-escritorio-cartel-t523/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzc3IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDM3NyA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="377" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/alt__promocional_publicitario_set_autoadhesivos_T523_atras_logo.jpg"
+                                                                                <a>
+                                                                                    <img data-lazyloaded="1" width="377"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/alt__promocional_publicitario_set_autoadhesivos_T523_atras_logo.jpg"
                                                                                         class="attachment-large size-large wp-image-19815"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2677,8 +2609,7 @@
                                                                                 <div class="wd-buttons">
                                                                                     <div
                                                                                         class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon">
-                                                                                        <a href="https://merchi.cl/oficina/libretas-personalizadas/libretas-ecologicas/set-de-escritorio-cartel-t523/"
-                                                                                            data-quantity="1"
+                                                                                        <a data-quantity="1"
                                                                                             class="button product_type_variable add-to-cart-loop"
                                                                                             data-product_id="63341"
                                                                                             data-product_sku="T523-00"
@@ -2689,8 +2620,7 @@
                                                                                     </div>
                                                                                     <div
                                                                                         class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                        <a href="https://merchi.cl/oficina/libretas-personalizadas/libretas-ecologicas/set-de-escritorio-cartel-t523/"
-                                                                                            class="open-quick-view quick-view-button"
+                                                                                        <a class="open-quick-view quick-view-button"
                                                                                             rel="nofollow"
                                                                                             data-id="63341">Vista
                                                                                             rápida</a>
@@ -2698,7 +2628,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="63341"
                                                                                             rel="nofollow"
@@ -2762,12 +2691,10 @@
                                                                     data-loop="2" data-id="62385">
                                                                     <div class="product-wrapper">
                                                                         <div class="product-element-top wd-quick-shop">
-                                                                            <a href="https://merchi.cl/tecnologia-y-accesorios/accesorios-personalizados-tecnologia-y-accesorios/potacables/portacables-u-cell-g294/"
-                                                                                class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzQxIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDc0MSA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="741" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/G294_U-Cell_1.jpg"
+                                                                            <a class="product-image-link">
+                                                                                <img data-lazyloaded="1" width="741"
+                                                                                    height="700"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/G294_U-Cell_1.jpg"
                                                                                     class="attachment-large size-large wp-image-15964"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -2777,10 +2704,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/tecnologia-y-accesorios/accesorios-personalizados-tecnologia-y-accesorios/potacables/portacables-u-cell-g294/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODQ1IiBoZWlnaHQ9IjY4NyIgdmlld0JveD0iMCAwIDg0NSA2ODciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="845" height="687"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/G294_U-Cell_2.jpg"
+                                                                                    <img data-lazyloaded="1" width="845"
+                                                                                        height="687"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/G294_U-Cell_2.jpg"
                                                                                         class="attachment-large size-large wp-image-15965"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2876,12 +2802,10 @@
                                                                     data-loop="3" data-id="69097">
                                                                     <div class="product-wrapper">
                                                                         <div class="product-element-top wd-quick-shop">
-                                                                            <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-de-oficina/set-memo-rainbow-182/"
-                                                                                class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="800" height="800"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/1738memojpg-1663263527jpg-1664285458.jpg"
+                                                                            <a class="product-image-link">
+                                                                                <img data-lazyloaded="1" width="800"
+                                                                                    height="800"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/1738memojpg-1663263527jpg-1664285458.jpg"
                                                                                     class="attachment-large size-large wp-image-28622"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -2889,12 +2813,10 @@
                                                                                     data-sizes="(max-width: 800px) 100vw, 800px" />
                                                                             </a>
                                                                             <div class="hover-img">
-                                                                                <a
-                                                                                    href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-de-oficina/set-memo-rainbow-182/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="800" height="800"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/Memo-Adhesivojpg-1593727791jpg-1663263545jpg-1664285465.jpg"
+                                                                                <a>
+                                                                                    <img data-lazyloaded="1" width="800"
+                                                                                        height="800"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/Memo-Adhesivojpg-1593727791jpg-1663263545jpg-1664285465.jpg"
                                                                                         class="attachment-large size-large wp-image-28623"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -2906,8 +2828,7 @@
                                                                                 <div class="wd-buttons">
                                                                                     <div
                                                                                         class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon">
-                                                                                        <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-de-oficina/set-memo-rainbow-182/"
-                                                                                            data-quantity="1"
+                                                                                        <a data-quantity="1"
                                                                                             class="button product_type_variable add_to_cart_button add-to-cart-loop"
                                                                                             data-product_id="69097"
                                                                                             data-product_sku="182-00"
@@ -2927,7 +2848,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="69097"
                                                                                             rel="nofollow"
@@ -2991,12 +2911,10 @@
                                                                     data-loop="4" data-id="67579">
                                                                     <div class="product-wrapper">
                                                                         <div class="product-element-top wd-quick-shop">
-                                                                            <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-para-beber/botella-wai-28/"
-                                                                                class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="800" height="800"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/portada-botella-waijpg-1664216687.jpg"
+                                                                            <a class="product-image-link">
+                                                                                <img data-lazyloaded="1" width="800"
+                                                                                    height="800"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/portada-botella-waijpg-1664216687.jpg"
                                                                                     class="attachment-large size-large wp-image-23031"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -3006,10 +2924,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-para-beber/botella-wai-28/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="800" height="800"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/4Botella-Wai-3jpg-1664216695.jpg"
+                                                                                    <img data-lazyloaded="1" width="800"
+                                                                                        height="800"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/4Botella-Wai-3jpg-1664216695.jpg"
                                                                                         class="attachment-large size-large wp-image-23032"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -3021,8 +2938,7 @@
                                                                                 <div class="wd-buttons">
                                                                                     <div
                                                                                         class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon">
-                                                                                        <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-para-beber/botella-wai-28/"
-                                                                                            data-quantity="1"
+                                                                                        <a data-quantity="1"
                                                                                             class="button product_type_variable add_to_cart_button add-to-cart-loop"
                                                                                             data-product_id="67579"
                                                                                             data-product_sku="28-00"
@@ -3042,7 +2958,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="67579"
                                                                                             rel="nofollow"
@@ -3115,10 +3030,9 @@
                                                                 <span class="wd-btn-text"
                                                                     data-elementor-setting-key="text">
                                                                     Ver Más </span><span class="wd-btn-icon">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                        decoding="async" loading="lazy"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/01/chevron-right-primary.svg"
+                                                                    <img data-lazyloaded="1" decoding="async"
+                                                                        loading="lazy"
+                                                                        src="https://merchi.cl/wp-content/uploads/2023/01/chevron-right-primary.svg"
                                                                         title="chevron-right-primary" width="14"
                                                                         height="14"> </span>
                                                             </a>
@@ -3179,10 +3093,9 @@
                                                                         <div class="product-element-top wd-quick-shop">
                                                                             <a href="https://merchi.cl/masivos/boligrafos-personalizados-masivos/boligrafos-de-metal-masivos/lapiz-slim-touch-117/"
                                                                                 class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="800" height="800"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/325bol-slim-lateral-copia1-1jpg-1580729237jpg-1663264129.jpg"
+                                                                                <img data-lazyloaded="1" width="800"
+                                                                                    height="800"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/325bol-slim-lateral-copia1-1jpg-1580729237jpg-1663264129.jpg"
                                                                                     class="attachment-large size-large wp-image-27529"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -3192,10 +3105,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/masivos/boligrafos-personalizados-masivos/boligrafos-de-metal-masivos/lapiz-slim-touch-117/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="800" height="800"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/325bol-slim-lateral-copia1_DERjpg-1580729281jpg-1663264138.jpg"
+                                                                                    <img data-lazyloaded="1" width="800"
+                                                                                        height="800"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/325bol-slim-lateral-copia1_DERjpg-1580729281jpg-1663264138.jpg"
                                                                                         class="attachment-large size-large wp-image-27530"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -3323,10 +3235,9 @@
                                                                         <div class="product-element-top wd-quick-shop">
                                                                             <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/bolsas-y-morrales-ecologicos/bolsa-ecologica-kyoto-c540/"
                                                                                 class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzkwIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDM5MCA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="390" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/promocional_publicitario_bolsa_navy_blue_C540_frente.jpg"
+                                                                                <img data-lazyloaded="1" width="390"
+                                                                                    height="700"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/promocional_publicitario_bolsa_navy_blue_C540_frente.jpg"
                                                                                     class="attachment-large size-large wp-image-12026"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -3336,10 +3247,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/bolsas-y-morrales-ecologicos/bolsa-ecologica-kyoto-c540/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzE3IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDMxNyA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="317" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/promocional_publicitario_bolsa_navy_blue_C540_perfil.jpg"
+                                                                                    <img data-lazyloaded="1" width="317"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/promocional_publicitario_bolsa_navy_blue_C540_perfil.jpg"
                                                                                         class="attachment-large size-large wp-image-12027"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -3478,10 +3388,9 @@
                                                                         <div class="product-element-top wd-quick-shop">
                                                                             <a href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-para-beber/botella-toms-34/"
                                                                                 class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
-                                                                                    width="1024" height="1024"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/Botella-Toms-Blanco-Foto-Tecnica-Plantajpg-1647358995jpg-1662986803-1024x1024.jpg"
+                                                                                <img data-lazyloaded="1" width="1024"
+                                                                                    height="1024"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/Botella-Toms-Blanco-Foto-Tecnica-Plantajpg-1647358995jpg-1662986803-1024x1024.jpg"
                                                                                     class="attachment-large size-large wp-image-23147"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -3492,9 +3401,8 @@
                                                                                 <a
                                                                                     href="https://merchi.cl/regalos-ecologicos-publicitarios-para-empresas/ecologicos-para-beber/botella-toms-34/">
                                                                                     <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
                                                                                         width="1024" height="1024"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/Botella-Toms-Blanco-Foto-Tecnica-Plantajpg-1647358995-02jpg-1649952238jpg-1662986810-1024x1024.jpg"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/Botella-Toms-Blanco-Foto-Tecnica-Plantajpg-1647358995-02jpg-1649952238jpg-1662986810-1024x1024.jpg"
                                                                                         class="attachment-large size-large wp-image-23148"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -3612,10 +3520,9 @@
                                                                         <div class="product-element-top wd-quick-shop">
                                                                             <a href="https://merchi.cl/masivos/accesorios-personalizados-masivos/otros-accesorios-personalizados-masivos/libretas-eco-t327/"
                                                                                 class="product-image-link">
-                                                                                <img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTY2IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDU2NiA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                    width="566" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/promocional_publicitario_libreta_azul_T327.jpg"
+                                                                                <img data-lazyloaded="1" width="566"
+                                                                                    height="700"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/promocional_publicitario_libreta_azul_T327.jpg"
                                                                                     class="attachment-large size-large wp-image-18362"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -3625,10 +3532,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/masivos/accesorios-personalizados-masivos/otros-accesorios-personalizados-masivos/libretas-eco-t327/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODQ1IiBoZWlnaHQ9IjUxMyIgdmlld0JveD0iMCAwIDg0NSA1MTMiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="845" height="513"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/T327-azul_abierto.jpg"
+                                                                                    <img data-lazyloaded="1" width="845"
+                                                                                        height="513"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/T327-azul_abierto.jpg"
                                                                                         class="attachment-large size-large wp-image-18363"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -3754,10 +3660,9 @@
                                                                 <span class="wd-btn-text"
                                                                     data-elementor-setting-key="text">
                                                                     Ver Más </span><span class="wd-btn-icon">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                        decoding="async" loading="lazy"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/01/chevron-right-primary.svg"
+                                                                    <img data-lazyloaded="1" decoding="async"
+                                                                        loading="lazy"
+                                                                        src="https://merchi.cl/wp-content/uploads/2023/01/chevron-right-primary.svg"
                                                                         title="chevron-right-primary" width="14"
                                                                         height="14"> </span>
                                                             </a>
@@ -3774,14 +3679,13 @@
                                                     data-widget_type="wd_banner.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="promo-banner-wrapper">
-                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                onclick="window.location.href='https://merchi.cl/masivos/'">
+                                                            <div
+                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                 <div class="main-wrapp-img">
                                                                     <div class="banner-image">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzUwIiBoZWlnaHQ9IjUyNyIgdmlld0JveD0iMCAwIDM1MCA1MjciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="350" height="527"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/llaveros-8.webp"
+                                                                        <img data-lazyloaded="1" width="350"
+                                                                            height="527" style="border-radius: 10px"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/llaveros-8.webp"
                                                                             class="attachment-full size-full wp-image-22580"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/llaveros-8.webp 350w, https://merchi.cl/wp-content/uploads/2023/02/llaveros-8-199x300.webp 199w, https://merchi.cl/wp-content/uploads/2023/02/llaveros-8-250x376.webp 250w, https://merchi.cl/wp-content/uploads/2023/02/llaveros-8-150x226.webp 150w"
@@ -3826,14 +3730,14 @@
                                                     data-widget_type="wd_banner.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="promo-banner-wrapper">
-                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                onclick="window.location.href='https://merchi.cl/bolsos-y-mochilas-para-empresa-personalizadas-con-logo/mochila-baviera-158/'">
+                                                            <div
+                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-default banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                 <div class="main-wrapp-img">
                                                                     <div class="banner-image">
-                                                                        <img data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzUxIiBoZWlnaHQ9IjUyNiIgdmlld0JveD0iMCAwIDM1MSA1MjYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                            width="351" height="526"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Mochila-8.webp"
+                                                                        <img data-lazyloaded="1" width="351"
+                                                                            height="526"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Mochila-8.webp"
+                                                                            style="border-radius: 10px"
                                                                             class="attachment-full size-full wp-image-22571"
                                                                             alt="" decoding="async" loading="lazy"
                                                                             data-srcset="https://merchi.cl/wp-content/uploads/2023/02/Mochila-8.webp 351w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-8-200x300.webp 200w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-8-250x375.webp 250w, https://merchi.cl/wp-content/uploads/2023/02/Mochila-8-150x225.webp 150w"
@@ -3904,9 +3808,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjI5IiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDYyOSA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                     width="629" height="700"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/alt__promocional_publicitario_mochila_nomawalk__K7_frente.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/alt__promocional_publicitario_mochila_nomawalk__K7_frente.jpg"
                                                                                     class="attachment-large size-large wp-image-16875"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -3916,10 +3819,9 @@
                                                                             <div class="hover-img">
                                                                                 <a
                                                                                     href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas-ejecutivas/mochila-nettech-k7/">
-                                                                                    <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjcwMCIgdmlld0JveD0iMCAwIDcwMCA3MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                        width="700" height="700"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/alt__promocional_publicitario_mochila_nomawalk__K7_perfil.jpg"
+                                                                                    <img data-lazyloaded="1" width="700"
+                                                                                        height="700"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/alt__promocional_publicitario_mochila_nomawalk__K7_perfil.jpg"
                                                                                         class="attachment-large size-large wp-image-16876"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -3952,7 +3854,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="62667"
                                                                                             rel="nofollow"
@@ -4023,9 +3924,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
                                                                                     width="1024" height="1024"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-1024x1024.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/6036mochila-cima-gris-claro-10094000024-55-55-63-a-1jpg-1662388935-1024x1024.jpg"
                                                                                     class="attachment-large size-large wp-image-27812"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -4036,9 +3936,8 @@
                                                                                 <a
                                                                                     href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas-ejecutivas/mochila-cima-134/">
                                                                                     <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
                                                                                         width="1024" height="1024"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/8594mochila-cima-gris-oscuro-10094000024-56-56-63-a-1jpg-1662388950-1024x1024.jpg"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/8594mochila-cima-gris-oscuro-10094000024-56-56-63-a-1jpg-1662388950-1024x1024.jpg"
                                                                                         class="attachment-large size-large wp-image-27816"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -4071,7 +3970,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="68417"
                                                                                             rel="nofollow"
@@ -4144,16 +4042,14 @@
                                                                     data-loop="3" data-id="68450">
                                                                     <div class="product-wrapper">
                                                                         <div class="product-element-top wd-quick-shop">
-                                                                            <a href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas/mochila-duomo-137/"
-                                                                                class="product-image-link">
+                                                                            <a class="product-image-link">
                                                                                 <div
                                                                                     class="product-labels labels-rounded-sm">
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgdmlld0JveD0iMCAwIDgwMCA4MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                     width="800" height="800"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/TAHG_MOCHILA-DUOMO_SIN-NUEVOjpg-1663957873.jpg"
                                                                                     class="attachment-large size-large wp-image-27847"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -4164,9 +4060,8 @@
                                                                                 <a
                                                                                     href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas/mochila-duomo-137/">
                                                                                     <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
                                                                                         width="1024" height="1024"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/Mochila20Duomo-TAHG20frentejpg-1580681119jpg-1663957885-1024x1024.jpg"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/Mochila20Duomo-TAHG20frentejpg-1580681119jpg-1663957885-1024x1024.jpg"
                                                                                         class="attachment-large size-large wp-image-27848"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -4178,8 +4073,7 @@
                                                                                 <div class="wd-buttons">
                                                                                     <div
                                                                                         class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon">
-                                                                                        <a href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas/mochila-duomo-137/"
-                                                                                            data-quantity="1"
+                                                                                        <a data-quantity="1"
                                                                                             class="button product_type_variable add_to_cart_button add-to-cart-loop"
                                                                                             data-product_id="68450"
                                                                                             data-product_sku="137-00"
@@ -4199,7 +4093,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="68450"
                                                                                             rel="nofollow"
@@ -4269,9 +4162,8 @@
                                                                                     <span
                                                                                         class="featured product-label">Hot</span>
                                                                                 </div><img data-lazyloaded="1"
-                                                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
                                                                                     width="1024" height="1024"
-                                                                                    data-src="https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-1024x1024.jpg"
+                                                                                    src="https://merchi.cl/wp-content/uploads/2023/02/sfafasjpg-1663960255-1024x1024.jpg"
                                                                                     class="attachment-large size-large wp-image-23622"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy"
@@ -4282,9 +4174,8 @@
                                                                                 <a
                                                                                     href="https://merchi.cl/bolsos-y-mochilas/mochilas-personalizadas/mochilas-ejecutivas/mochila-haus-66/">
                                                                                     <img data-lazyloaded="1"
-                                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
                                                                                         width="1024" height="1024"
-                                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/02/sdassssssssjpg-1663960261-1024x1024.jpg"
+                                                                                        src="https://merchi.cl/wp-content/uploads/2023/02/sdassssssssjpg-1663960261-1024x1024.jpg"
                                                                                         class="attachment-large size-large wp-image-23623"
                                                                                         alt="" decoding="async"
                                                                                         loading="lazy"
@@ -4317,7 +4208,6 @@
                                                                                     <div
                                                                                         class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                         <a class=""
-                                                                                            href="https://merchi.cl/wishlist/"
                                                                                             data-key="e44b8838cf"
                                                                                             data-product-id="67963"
                                                                                             rel="nofollow"
@@ -4390,10 +4280,9 @@
                                                                 <span class="wd-btn-text"
                                                                     data-elementor-setting-key="text">
                                                                     Ver Más </span><span class="wd-btn-icon">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                        decoding="async" loading="lazy"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/01/chevron-right-primary.svg"
+                                                                    <img data-lazyloaded="1" decoding="async"
+                                                                        loading="lazy"
+                                                                        src="https://merchi.cl/wp-content/uploads/2023/01/chevron-right-primary.svg"
                                                                         title="chevron-right-primary" width="14"
                                                                         height="14"> </span>
                                                             </a>
@@ -4450,7 +4339,6 @@
                                                                     data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <style>
-                                                                            /*! elementor - v3.14.0 - 26-06-2023 */
                                                                             .elementor-widget-image {
                                                                                 text-align: center
                                                                             }
@@ -4469,11 +4357,9 @@
                                                                             }
                                                                         </style><a
                                                                             href="https://merchi.cl/tazas-mug-y-botellas-publicitarias-promocionales/set-de-vasos-de-vidrio-barista-g302/">
-                                                                            <img data-lazyloaded="1"
-                                                                                src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzY4IiBoZWlnaHQ9IjIxMyIgdmlld0JveD0iMCAwIDc2OCAyMTMiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
-                                                                                decoding="async" width="768"
-                                                                                height="213"
-                                                                                data-src="https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-768x213.png"
+                                                                            <img data-lazyloaded="1" decoding="async"
+                                                                                width="768" height="213"
+                                                                                src="https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-768x213.png"
                                                                                 class="attachment-medium_large size-medium_large wp-image-22476"
                                                                                 alt="" loading="lazy"
                                                                                 data-srcset="https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-768x213.png 768w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-300x83.png 300w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-1024x284.png 1024w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-500x139.png 500w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-250x69.png 250w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-600x167.png 600w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8-150x42.png 150w, https://merchi.cl/wp-content/uploads/2023/02/Invierno-8.png 1200w"
@@ -4498,14 +4384,14 @@
                                                                     data-widget_type="wd_banner.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="promo-banner-wrapper">
-                                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                                onclick="window.location.href='https://merchi.cl/escritura/'">
+                                                                            <div
+                                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                                 <div class="main-wrapp-img">
                                                                                     <div class="banner-image">
                                                                                         <img data-lazyloaded="1"
-                                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTI1IiBoZWlnaHQ9IjE5OSIgdmlld0JveD0iMCAwIDUyNSAxOTkiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                             width="525" height="199"
-                                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Recurso-2-8.png"
+                                                                                            style="border-radius: 10px"
+                                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Recurso-2-8.png"
                                                                                             class="attachment-full size-full wp-image-22498"
                                                                                             alt="" decoding="async"
                                                                                             loading="lazy"
@@ -4555,14 +4441,14 @@
                                                                     data-widget_type="wd_banner.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="promo-banner-wrapper">
-                                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                                onclick="window.location.href='https://merchi.cl/estacional/articulos-para-invierno-personalizados/paraguas-articulos-para-invierno-personalizados/'">
+                                                                            <div
+                                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                                 <div class="main-wrapp-img">
                                                                                     <div class="banner-image">
                                                                                         <img data-lazyloaded="1"
-                                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTI3IiBoZWlnaHQ9IjE5OSIgdmlld0JveD0iMCAwIDUyNyAxOTkiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                             width="527" height="199"
-                                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/invierno.png"
+                                                                                            style="border-radius: 10px"
+                                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/invierno.png"
                                                                                             class="attachment-full size-full wp-image-22502"
                                                                                             alt="" decoding="async"
                                                                                             loading="lazy"
@@ -4610,14 +4496,14 @@
                                                                     data-widget_type="wd_banner.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="promo-banner-wrapper">
-                                                                            <div class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default with-btn banner-btn-position-static cursor-pointer"
-                                                                                onclick="window.location.href='https://merchi.cl/tecnologia/'">
+                                                                            <div
+                                                                                class="promo-banner banner-default banner-hover-zoom color-scheme-light banner-btn-size-small banner-btn-style-default with-btn banner-btn-position-static cursor-pointer">
                                                                                 <div class="main-wrapp-img">
                                                                                     <div class="banner-image">
                                                                                         <img data-lazyloaded="1"
-                                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTI1IiBoZWlnaHQ9IjE5OSIgdmlld0JveD0iMCAwIDUyNSAxOTkiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                             width="525" height="199"
-                                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Recurso-5.png"
+                                                                                            style="border-radius: 10px"
+                                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Recurso-5.png"
                                                                                             class="attachment-full size-full wp-image-22506"
                                                                                             alt="" decoding="async"
                                                                                             loading="lazy"
@@ -4751,10 +4637,9 @@
                                                                 <span class="wd-btn-text"
                                                                     data-elementor-setting-key="text">
                                                                     Read More </span><span class="wd-btn-icon">
-                                                                    <img data-lazyloaded="1"
-                                                                        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
-                                                                        decoding="async" loading="lazy"
-                                                                        data-src="https://merchi.cl/wp-content/uploads/2023/01/chevron-down-black.svg"
+                                                                    <img data-lazyloaded="1" decoding="async"
+                                                                        loading="lazy"
+                                                                        src="https://merchi.cl/wp-content/uploads/2023/01/chevron-down-black.svg"
                                                                         title="chevron-down-black" width="14"
                                                                         height="14"> </span>
                                                             </a>
@@ -4810,8 +4695,8 @@
                                                     data-widget_type="wd_button.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="wd-button-wrapper text-center">
-                                                            <a class="btn btn-style-default btn-style-semi-round btn-size-default btn-color-primary btn-icon-pos-right"
-                                                                href="https://merchi.cl/contacto/">
+                                                            <a
+                                                                class="btn btn-style-default btn-style-semi-round btn-size-default btn-color-primary btn-icon-pos-right">
                                                                 <span class="wd-btn-text"
                                                                     data-elementor-setting-key="text">
                                                                     Escríbenos </span></a>
@@ -4925,10 +4810,8 @@
                                     <div class="elementor-widget-container">
                                         <div class="wd-image text-left">
                                             <a href="">
-                                                <img data-lazyloaded="1"
-                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjY2IiB2aWV3Qm94PSIwIDAgMjAwIDY2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
-                                                    width="200" height="66"
-                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Merchi-Regalos-Corporativos-8-q2cnau06rs6at3wfm2usnap3a3nmwrw0y330x8dtw4.png"
+                                                <img data-lazyloaded="1" width="200" height="66"
+                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Merchi-Regalos-Corporativos-8-q2cnau06rs6at3wfm2usnap3a3nmwrw0y330x8dtw4.png"
                                                     title="Logo Merchi Regalos Corporativos-8"
                                                     alt="Logo Merchi Regalos Corporativos-8" loading="lazy" /> </a>
                                         </div>
@@ -5160,10 +5043,8 @@
                                     <div class="elementor-widget-container">
                                         <div class="wd-image text-center">
                                             <a href="">
-                                                <img data-lazyloaded="1"
-                                                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjU5IiB2aWV3Qm94PSIwIDAgMTgwIDU5Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg=="
-                                                    width="180" height="59"
-                                                    data-src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Merchi-Regalos-Corporativos-8-q2cnau06j0f4ktqjlif1xi3f5ei5fln4af9k3jldn2.png"
+                                                <img data-lazyloaded="1" width="180" height="59"
+                                                    src="https://merchi.cl/wp-content/uploads/elementor/thumbs/Logo-Merchi-Regalos-Corporativos-8-q2cnau06j0f4ktqjlif1xi3f5ei5fln4af9k3jldn2.png"
                                                     title="Logo Merchi Regalos Corporativos-8"
                                                     alt="Logo Merchi Regalos Corporativos-8" loading="lazy" /> </a>
                                         </div>
