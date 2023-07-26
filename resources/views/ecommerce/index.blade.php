@@ -649,7 +649,7 @@
                         <div class="whb-column whb-mobile-left whb-hidden-lg">
                             <div
                                 class="wd-tools-element wd-header-mobile-nav wd-style-icon wd-design-1 whb-2pcq59rrgv7khz6hxoix">
-                                <a href="#" rel="nofollow" aria-label="Abrir menú móvil">
+                                <a href="#" rel="nofollow" aria-label="Abrir menú móvil" id="menu-mobile-2">
                                     <span class="wd-tools-icon">
                                     </span><span class="wd-tools-text">Menú</span></a>
                             </div>
@@ -685,7 +685,7 @@
                         <div class="whb-column whb-col-left whb-visible-lg">
                             <div
                                 class="wd-tools-element wd-header-sticky-nav wd-style-text wd-design-8 wd-close-menu-mouseout whb-z4o6eqi1znmtf82f1h6b">
-                                <a href="#" rel="nofollow" aria-label="Open sticky navigation">
+                                <a href="#" rel="nofollow" id="btn-categories" aria-label="Open sticky navigation">
                                     <span class="wd-tools-inner">
                                         <span class="wd-tools-icon">
                                         </span><span class="wd-tools-text">VER CATEGORÍAS</span></span>
@@ -1036,10 +1036,9 @@
                                                                     aria-roledescription="slide" aria-label="3 de 6">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDUwMCAyNTAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                             width="500" height="250" decoding="async"
                                                                             class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_BP301-302_1920x960px_ok-500x250.webp"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_BP301-302_1920x960px_ok-500x250.webp"
                                                                             alt="Banner_BP301-302_1920x960px_ok" />
                                                                     </figure>
                                                                 </div>
@@ -1047,10 +1046,9 @@
                                                                     aria-roledescription="slide" aria-label="4 de 6">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDUwMCAyNTAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                             width="500" height="250" decoding="async"
                                                                             class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner-K109-1920x960_CH-500x250.webp"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner-K109-1920x960_CH-500x250.webp"
                                                                             alt="Banner-K109-1920x960_CH" />
                                                                     </figure>
                                                                 </div>
@@ -1058,10 +1056,9 @@
                                                                     aria-roledescription="slide" aria-label="5 de 6">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDUwMCAyNTAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                             width="500" height="250" decoding="async"
                                                                             class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_T621-T629-T630_1920x960_CH_2-500x250.webp"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_T621-T629-T630_1920x960_CH_2-500x250.webp"
                                                                             alt="Banner_T621-T629-T630_1920x960_CH_2" />
                                                                     </figure>
                                                                 </div>
@@ -1069,10 +1066,9 @@
                                                                     aria-roledescription="slide" aria-label="6 de 6">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             data-lazyloaded="1"
-                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDUwMCAyNTAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                             width="500" height="250" decoding="async"
                                                                             class="swiper-slide-image"
-                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_Barista_1920x960-_1_-500x250.webp"
+                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_Barista_1920x960-_1_-500x250.webp"
                                                                             alt="Banner_Barista_1920x960-_1_" />
                                                                     </figure>
                                                                 </div>
@@ -1113,9 +1109,8 @@
                                                                                     <div
                                                                                         class="banner-image wd-without-height">
                                                                                         <img data-lazyloaded="1"
-                                                                                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjEyNyIgdmlld0JveD0iMCAwIDI1MCAxMjciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
                                                                                             width="250" height="127"
-                                                                                            data-src="https://merchi.cl/wp-content/uploads/2023/02/Banner_productos_wagner_mobile-250x127.jpg"
+                                                                                            src="https://merchi.cl/wp-content/uploads/2023/02/Banner_productos_wagner_mobile-250x127.jpg"
                                                                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-image-22546"
                                                                                             alt="" decoding="async"
                                                                                             loading="lazy"
@@ -1198,7 +1193,7 @@
                                                                 PUBLICITARIOS PERSONALIZADOS<br /></div>
                                                             <div class="liner-continer">
                                                                 <h1
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Regalos Corporativos Con Logo, El Primer
                                                                     Ecommerce En Chile</h1>
                                                             </div>
@@ -1238,7 +1233,7 @@
                                                                 MARCAS</div>
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Nuestros Clientes</h2>
                                                             </div>
                                                             <div
@@ -1363,7 +1358,7 @@
                                                                 CATEGORÍAS POPULARES</div>
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Regalos Corporativos por Categoría</h2>
                                                             </div>
                                                             <div
@@ -1604,7 +1599,7 @@
                                                                 LOS REGALOS CORPORATIVOS</div>
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Regalos Publicitarios Para Empresas</h2>
                                                             </div>
                                                             <div
@@ -1846,7 +1841,7 @@
                                                                 SELECCIÓN TOP</div>
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Regalos Corporativos Más Vendidos</h2>
                                                             </div>
                                                             <div
@@ -2551,7 +2546,7 @@
                                                                 SELECCIÓN ECO<br /></div>
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Regalos Corporativos Ecológicos</h2>
                                                             </div>
                                                             <div
@@ -3061,7 +3056,7 @@
                                                                 SELECCIÓN LOW COST<br /></div>
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Regalos Corporativos Económicos<br /></h2>
                                                             </div>
                                                             <div
@@ -3781,7 +3776,7 @@
                                                             class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-medium text-left">
                                                             <div class="liner-continer">
                                                                 <h2
-                                                                    class="woodmart-title-container title wd-fontsize-xl">
+                                                                    class="woodmart-title-container title wd-fontsize-xl" style="font-weight:bold">
                                                                     Mochilas Premium Personalizadas</h2>
                                                             </div>
                                                         </div>
@@ -4317,7 +4312,7 @@
                                                                             class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-default text-center">
                                                                             <div class="liner-continer">
                                                                                 <h4
-                                                                                    class="woodmart-title-container title wd-fontsize-l wd-underline-colored">
+                                                                                    class="woodmart-title-container title wd-fontsize-l wd-underline-colored" style="font-weight:bold">
                                                                                     Sorprende a los coffe lovers con
                                                                                     el nuevo set de vasos baristas.
                                                                                 </h4>
@@ -4679,7 +4674,7 @@
                                                                 NUNCA ESTÁ DE MÁS HACER UNA CONSULTA<br /></div>
                                                             <div class="liner-continer">
                                                                 <h3
-                                                                    class="woodmart-title-container title wd-fontsize-l">
+                                                                    class="woodmart-title-container title wd-fontsize-l" style="font-weight:bold">
                                                                     ¿Tienes dudas?</h3>
                                                             </div>
                                                             <div
@@ -5456,7 +5451,7 @@ hidden-form			" action="https://merchi.cl/" style="display:none;">
     </div>
     <div class="wd-header-cart wd-tools-element wd-design-5 cart-widget-opener" title="Mi carrito">
         <a href="https://merchi.cl/cart/">
-            <span class="wd-tools-icon">
+            <span class=Abrir menú móvil"wd-tools-icon">
                 <span class="wd-cart-number wd-tools-count">0 <span>artículos</span></span>
             </span>
             <span class="wd-toolbar-label">
@@ -5464,7 +5459,7 @@ hidden-form			" action="https://merchi.cl/" style="display:none;">
         </a>
     </div>
     <div class="wd-header-mobile-nav whb-wd-header-mobile-nav mobile-style-icon wd-tools-element">
-        <a href="#" rel="nofollow">
+        <a href="#" rel="nofollow" id="menu-mobile">
             <span class="wd-tools-icon"></span>
             <span class="wd-toolbar-label">
                 Menú </span>

@@ -448,3 +448,8 @@ body,
     height: 50px;
     max-width: min-content;
 }
+
+
+.scroll-y {
+    overflow-y:auto;
+}
