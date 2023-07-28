@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Ecommerce\IndexController;
+use App\Http\Controllers\Ecommerce\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,4 +17,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::prefix('')->group(function () {
     Route::get('', [IndexController::class, 'index'])->name('ecommerce');
+    Route::get('home', [HomeController::class, 'home'])->name('ecommerce');
 });

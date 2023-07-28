@@ -591,7 +591,7 @@
                                     </div>
                                     <div class="info-box-content">
                                         <div class="info-box-inner set-cont-mb-s reset-last-child">
-                                            <h6 style="margin-bottom: 0; font-size: 14px;">WhatsApp</h6>
+                                            <h6 style="margin-bottom: 0; font-size: 14px; font-weight:bold" >WhatsApp</h6>
                                             <p><span style="color: #1c61e7; font-size: 14px;">+56 9 9793 9403</span>
                                             </p>
                                         </div>
@@ -638,7 +638,7 @@
                                     </div>
                                     <div class="info-box-content">
                                         <div class="info-box-inner set-cont-mb-s reset-last-child">
-                                            <h6 style="margin-bottom: 0; font-size: 14px;">Sobre $290.000</h6>
+                                            <h6 style="margin-bottom: 0; font-size: 14px; font-weight:bold">Sobre $290.000</h6>
                                             <p><span style="color: #1c61e7; font-size: 14px;">Envío Gratuito</span>
                                             </p>
                                         </div>
@@ -688,7 +688,7 @@
                                 <a href="#" rel="nofollow" id="btn-categories" aria-label="Open sticky navigation">
                                     <span class="wd-tools-inner">
                                         <span class="wd-tools-icon">
-                                        </span><span class="wd-tools-text">VER CATEGORÍAS</span></span>
+                                        </span><span class="wd-tools-text">VER PRODUCTOS</span></span>
                                 </a>
                             </div>
                         </div>
